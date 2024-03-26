@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.26)  27 MAR 2024 01:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.26)  27 MAR 2024 01:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -593,17 +593,17 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: F45E22F1EBD6029626CA34AE82AD43B6;632.
  ) 
 Here is how much of TeX's memory you used:
- 13549 strings out of 474423
- 243006 string characters out of 5741246
- 1962496 words of memory out of 5000000
- 35674 multiletter control sequences out of 15000+600000
- 683617 words of font info for 79 fonts, out of 8000000 for 9000
+ 13550 strings out of 474423
+ 243013 string characters out of 5741246
+ 1965496 words of memory out of 5000000
+ 35676 multiletter control sequences out of 15000+600000
+ 683179 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,642b,897s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Hassan/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/Hassan/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/Hassan/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/Hassan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Hassan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume.pdf (1 page, 210813 bytes).
+Output written on resume.pdf (1 page, 211721 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
